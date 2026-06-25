@@ -13,6 +13,8 @@
 #ifndef __PERIMETER_H
 #define __PERIMETER_H
 
+#include "board.h"
+
 #ifdef OPTION_PERIMETER
 
 /******************************************************************************
